@@ -1,0 +1,10 @@
+# Project exclude paths
+/fileuploadserver/target/
+/hibernate_day01/target/
+/out/
+/springmvc_day01_01/target/
+/springmvc_day02_01/target/
+/springmvc_day02_02_fileupload/target/
+/springmvc_day02_03_exception/target/
+/springmvc_day02_04_interceptor/target/
+/ssm/target/
